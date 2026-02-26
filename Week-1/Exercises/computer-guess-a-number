@@ -1,0 +1,34 @@
+print("Think of an integer number between 1 and 100. The computer will guess a number. If it is " \
+"not the number you're thinking of, type 'No', and if your number is higher than the computer's guess" \
+", type 'Higher', or it it is lower, type 'Lower' when prompted. If the guess is correct, type 'Yes'.")
+
+from random import randint
+
+def guess_question():
+    return input("Is the number you are thinking of " + str(guess) + "? ")
+
+def higher_lower():
+    return input("Is the number you are thinking of higher or lower than " + str(guess) + "? ")
+
+upper_bound = 100
+lower_bound = 1
+
+guess = randint(1, 100)
+
+
+running = True
+
+while running:
+
+    answer = guess_question()
+    if answer == "No":
+        if higher_lower() == "Higher":
+            lower_bound = guess+1
+        else:
+            upper_bound = guess-1
+        guess = randint(lower_bound, upper_bound)
+    elif answer == "Yes":
+        running = False
+        print("Woohoo, I won!")
+    else:
+        print("Please answer either 'Yes' or 'No.'")
