@@ -1,0 +1,21 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Mar 19 2026 23:24:49
+#sha1: 38e29d
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+5131,stdout,received,'[1.5]'
+5132,stdout,received,'[1.5, 0.5]'
+5132,stdout,received,'[1.5, 0.5, -0.5]'
+5133,stdout,received,'[1.5, 0.5, -0.5, -1.5]'
+5133,stdout,received,'[0.5]'
+5133,stdout,received,'[0.5, -0.5]'
+5135,Stimulus,presented,0
+5137,Stimulus,presented,1
+5138,Stimulus,presented,2
+5141,Stimulus,presented,3
+5143,Stimulus,presented,4
+5145,Stimulus,presented,5
+5147,Stimulus,presented,6
+5150,Stimulus,presented,7

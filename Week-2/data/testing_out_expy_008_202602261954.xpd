@@ -1,0 +1,23 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Thu Feb 26 2026 19:54:13
+#--EXPERIMENT INFO
+#e mainfile: testing_out_expy
+#e sha1: 75cccd
+#e modules: 
+#e Experiment: First Experiment
+#e no between subject factors
+#e Block 0: Block One
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#e Block 1: Block Two
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 8
+subject_id,Block,Trial,Key,RT
+8,Block One,0,1073741903,351
+8,Block One,1,1073741904,274
+8,Block Two,0,1073741903,224
+8,Block Two,1,1073741904,273

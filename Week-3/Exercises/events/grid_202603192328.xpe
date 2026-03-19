@@ -1,0 +1,242 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Mar 19 2026 23:28:48
+#sha1: 08c6b1
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+5343,stdout,received,'[9.5]'
+5343,stdout,received,'[9.5, 8.5]'
+5343,stdout,received,'[9.5, 8.5, 7.5]'
+5344,stdout,received,'[9.5, 8.5, 7.5, 6.5]'
+5344,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5]'
+5344,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5]'
+5345,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5]'
+5345,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5]'
+5345,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5]'
+5346,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5]'
+5346,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5]'
+5347,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5]'
+5347,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5]'
+5347,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5]'
+5348,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5]'
+5348,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5, -5.5]'
+5348,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5, -5.5, -6.5]'
+5349,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5, -5.5, -6.5, -7.5]'
+5349,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5, -5.5, -6.5, -7.5, -8.5]'
+5350,stdout,received,'[9.5, 8.5, 7.5, 6.5, 5.5, 4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5, -5.5, -6.5, -7.5, -8.5, -9.5]'
+5350,stdout,received,'[4.5]'
+5350,stdout,received,'[4.5, 3.5]'
+5351,stdout,received,'[4.5, 3.5, 2.5]'
+5351,stdout,received,'[4.5, 3.5, 2.5, 1.5]'
+5351,stdout,received,'[4.5, 3.5, 2.5, 1.5, 0.5]'
+5351,stdout,received,'[4.5, 3.5, 2.5, 1.5, 0.5, -0.5]'
+5352,stdout,received,'[4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5]'
+5352,stdout,received,'[4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5]'
+5353,stdout,received,'[4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5]'
+5353,stdout,received,'[4.5, 3.5, 2.5, 1.5, 0.5, -0.5, -1.5, -2.5, -3.5, -4.5]'
+5359,stdout,received,'[[-9.5, -4.5], [9.5, -4.5], [8.5, -4.5], [7.5, -4.5], [6.5, -4.5], [5.5, -4.5], [4.5, -4.5], [3.5, -4.5], [2.5, -4.5], [1.5, -4.5], [0.5, -4.5], [-0.5, -4.5], [-1.5, -4.5], [-2.5, -4.5], [-3.5, -4.5], [-4.5, -4.5], [-5.5, -4.5], [-6.5, -4.5], [-7.5, -4.5], [-8.5, -4.5], [-9.5, 4.5], [9.5, 4.5], [8.5, 4.5], [7.5, 4.5], [6.5, 4.5], [5.5, 4.5], [4.5, 4.5], [3.5, 4.5], [2.5, 4.5], [1.5, 4.5], [0.5, 4.5], [-0.5, 4.5], [-1.5, 4.5], [-2.5, 4.5], [-3.5, 4.5], [-4.5, 4.5], [-5.5, 4.5], [-6.5, 4.5], [-7.5, 4.5], [-8.5, 4.5], [-9.5, 3.5], [9.5, 3.5], [8.5, 3.5], [7.5, 3.5], [6.5, 3.5], [5.5, 3.5], [4.5, 3.5], [3.5, 3.5], [2.5, 3.5], [1.5, 3.5], [0.5, 3.5], [-0.5, 3.5], [-1.5, 3.5], [-2.5, 3.5], [-3.5, 3.5], [-4.5, 3.5], [-5.5, 3.5], [-6.5, 3.5], [-7.5, 3.5], [-8.5, 3.5], [-9.5, 2.5], [9.5, 2.5], [8.5, 2.5], [7.5, 2.5], [6.5, 2.5], [5.5, 2.5], [4.5, 2.5], [3.5, 2.5], [2.5, 2.5], [1.5, 2.5], [0.5, 2.5], [-0.5, 2.5], [-1.5, 2.5], [-2.5, 2.5], [-3.5, 2.5], [-4.5, 2.5], [-5.5, 2.5], [-6.5, 2.5], [-7.5, 2.5], [-8.5, 2.5], [-9.5, 1.5], [9.5, 1.5], [8.5, 1.5], [7.5, 1.5], [6.5, 1.5], [5.5, 1.5], [4.5, 1.5], [3.5, 1.5], [2.5, 1.5], [1.5, 1.5], [0.5, 1.5], [-0.5, 1.5], [-1.5, 1.5], [-2.5, 1.5], [-3.5, 1.5], [-4.5, 1.5], [-5.5, 1.5], [-6.5, 1.5], [-7.5, 1.5], [-8.5, 1.5], [-9.5, 0.5], [9.5, 0.5], [8.5, 0.5], [7.5, 0.5], [6.5, 0.5], [5.5, 0.5], [4.5, 0.5], [3.5, 0.5], [2.5, 0.5], [1.5, 0.5], [0.5, 0.5], [-0.5, 0.5], [-1.5, 0.5], [-2.5, 0.5], [-3.5, 0.5], [-4.5, 0.5], [-5.5, 0.5], [-6.5, 0.5], [-7.5, 0.5], [-8.5, 0.5], [-9.5, -0.5], [9.5, -0.5], [8.5, -0.5], [7.5, -0.5], [6.5, -0.5], [5.5, -0.5], [4.5, -0.5], [3.5, -0.5], [2.5, -0.5], [1.5, -0.5], [0.5, -0.5], [-0.5, -0.5], [-1.5, -0.5], [-2.5, -0.5], [-3.5, -0.5], [-4.5, -0.5], [-5.5, -0.5], [-6.5, -0.5], [-7.5, -0.5], [-8.5, -0.5], [-9.5, -1.5], [9.5, -1.5], [8.5, -1.5], [7.5, -1.5], [6.5, -1.5], [5.5, -1.5], [4.5, -1.5], [3.5, -1.5], [2.5, -1.5], [1.5, -1.5], [0.5, -1.5], [-0.5, -1.5], [-1.5, -1.5], [-2.5, -1.5], [-3.5, -1.5], [-4.5, -1.5], [-5.5, -1.5], [-6.5, -1.5], [-7.5, -1.5], [-8.5, -1.5], [-9.5, -2.5], [9.5, -2.5], [8.5, -2.5], [7.5, -2.5], [6.5, -2.5], [5.5, -2.5], [4.5, -2.5], [3.5, -2.5], [2.5, -2.5], [1.5, -2.5], [0.5, -2.5], [-0.5, -2.5], [-1.5, -2.5], [-2.5, -2.5], [-3.5, -2.5], [-4.5, -2.5], [-5.5, -2.5], [-6.5, -2.5], [-7.5, -2.5], [-8.5, -2.5], [-9.5, -3.5], [9.5, -3.5], [8.5, -3.5], [7.5, -3.5], [6.5, -3.5], [5.5, -3.5], [4.5, -3.5], [3.5, -3.5], [2.5, -3.5], [1.5, -3.5], [0.5, -3.5], [-0.5, -3.5], [-1.5, -3.5], [-2.5, -3.5], [-3.5, -3.5], [-4.5, -3.5], [-5.5, -3.5], [-6.5, -3.5], [-7.5, -3.5], [-8.5, -3.5]]'
+5362,Stimulus,presented,0
+5364,Stimulus,presented,1
+5365,Stimulus,presented,2
+5367,Stimulus,presented,3
+5369,Stimulus,presented,4
+5373,Stimulus,presented,5
+5375,Stimulus,presented,6
+5377,Stimulus,presented,7
+5379,Stimulus,presented,8
+5381,Stimulus,presented,9
+5383,Stimulus,presented,10
+5386,Stimulus,presented,11
+5389,Stimulus,presented,12
+5391,Stimulus,presented,13
+5393,Stimulus,presented,14
+5395,Stimulus,presented,15
+5397,Stimulus,presented,16
+5399,Stimulus,presented,17
+5401,Stimulus,presented,18
+5403,Stimulus,presented,19
+5405,Stimulus,presented,20
+5407,Stimulus,presented,21
+5409,Stimulus,presented,22
+5411,Stimulus,presented,23
+5413,Stimulus,presented,24
+5415,Stimulus,presented,25
+5416,Stimulus,presented,26
+5418,Stimulus,presented,27
+5420,Stimulus,presented,28
+5421,Stimulus,presented,29
+5423,Stimulus,presented,30
+5425,Stimulus,presented,31
+5427,Stimulus,presented,32
+5429,Stimulus,presented,33
+5431,Stimulus,presented,34
+5432,Stimulus,presented,35
+5434,Stimulus,presented,36
+5435,Stimulus,presented,37
+5437,Stimulus,presented,38
+5439,Stimulus,presented,39
+5441,Stimulus,presented,40
+5443,Stimulus,presented,41
+5445,Stimulus,presented,42
+5447,Stimulus,presented,43
+5448,Stimulus,presented,44
+5450,Stimulus,presented,45
+5452,Stimulus,presented,46
+5453,Stimulus,presented,47
+5455,Stimulus,presented,48
+5457,Stimulus,presented,49
+5459,Stimulus,presented,50
+5461,Stimulus,presented,51
+5463,Stimulus,presented,52
+5464,Stimulus,presented,53
+5466,Stimulus,presented,54
+5468,Stimulus,presented,55
+5469,Stimulus,presented,56
+5471,Stimulus,presented,57
+5473,Stimulus,presented,58
+5475,Stimulus,presented,59
+5477,Stimulus,presented,60
+5479,Stimulus,presented,61
+5480,Stimulus,presented,62
+5483,Stimulus,presented,63
+5484,Stimulus,presented,64
+5485,Stimulus,presented,65
+5487,Stimulus,presented,66
+5489,Stimulus,presented,67
+5491,Stimulus,presented,68
+5492,Stimulus,presented,69
+5493,Stimulus,presented,70
+5495,Stimulus,presented,71
+5496,Stimulus,presented,72
+5497,Stimulus,presented,73
+5498,Stimulus,presented,74
+5500,Stimulus,presented,75
+5501,Stimulus,presented,76
+5502,Stimulus,presented,77
+5504,Stimulus,presented,78
+5505,Stimulus,presented,79
+5506,Stimulus,presented,80
+5507,Stimulus,presented,81
+5509,Stimulus,presented,82
+5510,Stimulus,presented,83
+5511,Stimulus,presented,84
+5512,Stimulus,presented,85
+5514,Stimulus,presented,86
+5516,Stimulus,presented,87
+5518,Stimulus,presented,88
+5519,Stimulus,presented,89
+5521,Stimulus,presented,90
+5522,Stimulus,presented,91
+5524,Stimulus,presented,92
+5526,Stimulus,presented,93
+5528,Stimulus,presented,94
+5529,Stimulus,presented,95
+5530,Stimulus,presented,96
+5532,Stimulus,presented,97
+5533,Stimulus,presented,98
+5535,Stimulus,presented,99
+5537,Stimulus,presented,100
+5539,Stimulus,presented,101
+5541,Stimulus,presented,102
+5543,Stimulus,presented,103
+5544,Stimulus,presented,104
+5546,Stimulus,presented,105
+5548,Stimulus,presented,106
+5550,Stimulus,presented,107
+5552,Stimulus,presented,108
+5554,Stimulus,presented,109
+5556,Stimulus,presented,110
+5559,Stimulus,presented,111
+5561,Stimulus,presented,112
+5563,Stimulus,presented,113
+5565,Stimulus,presented,114
+5568,Stimulus,presented,115
+5569,Stimulus,presented,116
+5571,Stimulus,presented,117
+5573,Stimulus,presented,118
+5576,Stimulus,presented,119
+5578,Stimulus,presented,120
+5580,Stimulus,presented,121
+5582,Stimulus,presented,122
+5584,Stimulus,presented,123
+5586,Stimulus,presented,124
+5588,Stimulus,presented,125
+5590,Stimulus,presented,126
+5592,Stimulus,presented,127
+5594,Stimulus,presented,128
+5596,Stimulus,presented,129
+5598,Stimulus,presented,130
+5600,Stimulus,presented,131
+5601,Stimulus,presented,132
+5603,Stimulus,presented,133
+5605,Stimulus,presented,134
+5607,Stimulus,presented,135
+5609,Stimulus,presented,136
+5611,Stimulus,presented,137
+5613,Stimulus,presented,138
+5614,Stimulus,presented,139
+5616,Stimulus,presented,140
+5618,Stimulus,presented,141
+5620,Stimulus,presented,142
+5621,Stimulus,presented,143
+5623,Stimulus,presented,144
+5625,Stimulus,presented,145
+5627,Stimulus,presented,146
+5629,Stimulus,presented,147
+5631,Stimulus,presented,148
+5633,Stimulus,presented,149
+5634,Stimulus,presented,150
+5636,Stimulus,presented,151
+5638,Stimulus,presented,152
+5640,Stimulus,presented,153
+5642,Stimulus,presented,154
+5644,Stimulus,presented,155
+5646,Stimulus,presented,156
+5648,Stimulus,presented,157
+5650,Stimulus,presented,158
+5651,Stimulus,presented,159
+5653,Stimulus,presented,160
+5655,Stimulus,presented,161
+5657,Stimulus,presented,162
+5660,Stimulus,presented,163
+5662,Stimulus,presented,164
+5664,Stimulus,presented,165
+5666,Stimulus,presented,166
+5668,Stimulus,presented,167
+5669,Stimulus,presented,168
+5671,Stimulus,presented,169
+5673,Stimulus,presented,170
+5675,Stimulus,presented,171
+5677,Stimulus,presented,172
+5678,Stimulus,presented,173
+5680,Stimulus,presented,174
+5682,Stimulus,presented,175
+5684,Stimulus,presented,176
+5686,Stimulus,presented,177
+5687,Stimulus,presented,178
+5690,Stimulus,presented,179
+5692,Stimulus,presented,180
+5694,Stimulus,presented,181
+5695,Stimulus,presented,182
+5697,Stimulus,presented,183
+5699,Stimulus,presented,184
+5700,Stimulus,presented,185
+5702,Stimulus,presented,186
+5704,Stimulus,presented,187
+5706,Stimulus,presented,188
+5708,Stimulus,presented,189
+5710,Stimulus,presented,190
+5712,Stimulus,presented,191
+5713,Stimulus,presented,192
+5715,Stimulus,presented,193
+5717,Stimulus,presented,194
+5719,Stimulus,presented,195
+5721,Stimulus,presented,196
+5723,Stimulus,presented,197
+5725,Stimulus,presented,198
+5728,Stimulus,presented,199
+5735,Stimulus,presented,200
+11476,Keyboard,received,13,wait
+11476,Experiment,ended
+11484,Stimulus,presented,201

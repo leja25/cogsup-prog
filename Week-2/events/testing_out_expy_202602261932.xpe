@@ -1,0 +1,10 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Feb 26 2026 19:32:40
+#sha1: 9a4038
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+4783,stderr,received,'Traceback (most recent call last):'
+4784,stderr,received,'  File "c:\\Users\\lily_\\OneDrive\\Documents\\Masters\\S2\\Experimental_approach\\CogSup\\Programming\\Assignments\\Week-2\\testing_out_expy", line 14, in <module>\n    stim = expyriment.stimuli.Textline(text = "I am a stimulus in block 1, trial 2")\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^'
+4785,stderr,received,"AttributeError: module 'expyriment.stimuli' has no attribute 'Textline'. Did you mean: 'TextLine'?"
