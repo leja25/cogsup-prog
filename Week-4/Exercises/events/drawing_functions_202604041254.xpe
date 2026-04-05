@@ -1,0 +1,70 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sat Apr 04 2026 12:54:36
+#sha1: 333be8
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+613,Stimulus,presented,0
+613,Stimulus,presented,1
+616,stdout,received,'2'
+1114,Stimulus,presented,0
+1114,Stimulus,presented,2
+1116,stdout,received,'2'
+1614,Stimulus,presented,0
+1614,Stimulus,presented,3
+1616,stdout,received,'2'
+2114,Stimulus,presented,0
+2114,Stimulus,presented,4
+2116,stdout,received,'2'
+2614,Stimulus,presented,0
+2614,Stimulus,presented,5
+2616,stdout,received,'2'
+3114,Stimulus,presented,0
+3114,Stimulus,presented,6
+3116,stdout,received,'2'
+3614,Stimulus,presented,0
+3615,Stimulus,presented,7
+3617,stdout,received,'3'
+4114,Stimulus,presented,0
+4114,Stimulus,presented,8
+4116,stdout,received,'2'
+4614,Stimulus,presented,0
+4615,Stimulus,presented,9
+4616,stdout,received,'2'
+5114,Stimulus,presented,0
+5114,Stimulus,presented,10
+5116,stdout,received,'2'
+5614,Stimulus,presented,0
+5614,Stimulus,presented,11
+5616,stdout,received,'2'
+6114,Stimulus,presented,0
+6114,Stimulus,presented,12
+6116,stdout,received,'2'
+6614,Stimulus,presented,0
+6614,Stimulus,presented,13
+6616,stdout,received,'2'
+7114,Stimulus,presented,0
+7114,Stimulus,presented,14
+7116,stdout,received,'1'
+7615,Stimulus,presented,0
+7615,Stimulus,presented,15
+7616,stdout,received,'1'
+8116,Stimulus,presented,0
+8116,Stimulus,presented,16
+8117,stdout,received,'1'
+8617,Stimulus,presented,0
+8617,Stimulus,presented,17
+8618,stdout,received,'1'
+9118,Stimulus,presented,0
+9118,Stimulus,presented,18
+9120,stdout,received,'1'
+9619,Stimulus,presented,0
+9619,Stimulus,presented,19
+9621,stdout,received,'1'
+10120,Stimulus,presented,0
+10120,Stimulus,presented,20
+10121,stdout,received,'1'
+10621,stdout,received,'[501, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 501, 500, 502, 500, 502, 501, 500]'
+10621,Experiment,ended
+10635,Stimulus,presented,21

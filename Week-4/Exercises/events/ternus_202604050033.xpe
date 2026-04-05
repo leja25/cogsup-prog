@@ -1,0 +1,10 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 00:33:58
+#sha1: 38fa6c
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+984,stderr,received,'Traceback (most recent call last):'
+992,stderr,received,'  File "c:\\Users\\lily_\\OneDrive\\Documents\\Masters\\S2\\Experimental_approach\\CogSup\\Programming\\Assignments\\Week-4\\Exercises\\ternus.py", line 36, in <module>\n    for i in circles:\n             ^^^^^^^'
+992,stderr,received,"NameError: name 'circles' is not defined"

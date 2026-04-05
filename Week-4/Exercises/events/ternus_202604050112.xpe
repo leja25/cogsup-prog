@@ -1,0 +1,34 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 01:12:02
+#sha1: f3a7cc
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+449,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001EEC84B2C10>'
+538,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001EEC860ED50>'
+559,Stimulus,presented,12
+559,Stimulus,presented,13
+560,Stimulus,presented,14
+5569,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001EEC8618F30>'
+5569,Stimulus,presented,12
+5569,Stimulus,presented,13
+5570,Stimulus,presented,14
+10588,Stimulus,presented,12
+10588,Stimulus,presented,13
+10588,Stimulus,presented,14
+15601,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001EEC8618F30>'
+15602,Stimulus,presented,12
+15602,Stimulus,presented,13
+15602,Stimulus,presented,14
+20616,Stimulus,presented,12
+20616,Stimulus,presented,13
+20616,Stimulus,presented,14
+25627,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001EEC8618F30>'
+25627,Stimulus,presented,12
+25627,Stimulus,presented,13
+25627,Stimulus,presented,14
+30638,Keyboard,received,32,check
+30666,Keyboard,received,32,wait
+30666,Experiment,ended
+30680,Stimulus,presented,15

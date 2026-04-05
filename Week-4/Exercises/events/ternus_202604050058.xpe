@@ -1,0 +1,43 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 00:58:17
+#sha1: 8e7122
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+481,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001E437F92C10>'
+565,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000001E4380EED50>'
+592,Stimulus,presented,12
+592,Stimulus,presented,13
+592,Stimulus,presented,14
+1178,Stimulus,presented,21
+1178,Stimulus,presented,22
+1178,Stimulus,presented,23
+1708,Stimulus,presented,24
+1708,Stimulus,presented,25
+1708,Stimulus,presented,26
+2292,Stimulus,presented,33
+2292,Stimulus,presented,34
+2292,Stimulus,presented,35
+2825,Stimulus,presented,36
+2825,Stimulus,presented,37
+2825,Stimulus,presented,38
+3410,Stimulus,presented,45
+3410,Stimulus,presented,46
+3410,Stimulus,presented,47
+3946,Stimulus,presented,48
+3947,Stimulus,presented,49
+3947,Stimulus,presented,50
+4533,Stimulus,presented,57
+4534,Stimulus,presented,58
+4534,Stimulus,presented,59
+5066,Stimulus,presented,60
+5066,Stimulus,presented,61
+5066,Stimulus,presented,62
+5650,Stimulus,presented,69
+5650,Stimulus,presented,70
+5650,Stimulus,presented,71
+6158,Keyboard,received,32,check
+8927,Keyboard,received,32,wait
+8927,Experiment,ended
+8939,Stimulus,presented,72

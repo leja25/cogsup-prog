@@ -1,0 +1,35 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 17:29:43
+#sha1: 519776
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+467,Stimulus,presented,0
+468,Stimulus,presented,1
+468,Stimulus,presented,2
+2467,stdout,received,'draw time is  10'
+2468,stdout,received,'display time is  2000'
+4470,Stimulus,presented,0
+4470,Stimulus,presented,1
+4470,Stimulus,presented,2
+8474,Stimulus,presented,0
+8474,Stimulus,presented,1
+8474,Stimulus,presented,2
+10474,stdout,received,'draw time is  2'
+10474,stdout,received,'display time is  2000'
+12476,Stimulus,presented,0
+12476,Stimulus,presented,1
+12476,Stimulus,presented,2
+16479,Stimulus,presented,0
+16479,Stimulus,presented,1
+16479,Stimulus,presented,2
+18479,stdout,received,'draw time is  2'
+18479,stdout,received,'display time is  2000'
+20481,Stimulus,presented,0
+20481,Stimulus,presented,1
+20481,Stimulus,presented,2
+24486,Keyboard,received,32,check
+25955,Keyboard,received,32,wait
+25955,Experiment,ended
+25960,Stimulus,presented,3

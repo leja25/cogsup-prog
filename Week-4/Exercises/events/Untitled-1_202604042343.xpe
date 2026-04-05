@@ -1,0 +1,11 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sat Apr 04 2026 23:43:19
+#sha1: a01f71
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+906,stdout,received,'[(80.0, 0), (-80.0, 0), (-240.0, 0), (240.0, 0)]'
+907,stdout,received,"[[(80.0, 0), 'Colour(red=0, green=255, blue=0)'], [(-80.0, 0), 'Colour(red=255, green=0, blue=0)'], [(-240.0, 0), 'Colour(red=0, green=0, blue=255)'], [(240.0, 0), 'Colour(red=0, green=0, blue=255)']]"
+907,Experiment,ended
+923,Stimulus,presented,0

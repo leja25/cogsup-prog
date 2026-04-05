@@ -1,0 +1,12 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 00:43:16
+#sha1: bac04c
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+544,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x00000261D0472C10>'
+655,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x00000261D05CAD50>'
+5065,Keyboard,received,32,wait
+5065,Experiment,ended
+5078,Stimulus,presented,12

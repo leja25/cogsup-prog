@@ -1,0 +1,25 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 17:33:12
+#sha1: f12224
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+498,Stimulus,presented,0
+498,Stimulus,presented,1
+498,Stimulus,presented,2
+2500,stdout,received,'display time is  2000'
+4502,Stimulus,presented,0
+4502,Stimulus,presented,1
+4503,Stimulus,presented,2
+8506,Stimulus,presented,0
+8506,Stimulus,presented,1
+8506,Stimulus,presented,2
+10508,stdout,received,'display time is  2000'
+12510,Stimulus,presented,0
+12510,Stimulus,presented,1
+12510,Stimulus,presented,2
+16513,Keyboard,received,32,check
+17385,Keyboard,received,32,wait
+17385,Experiment,ended
+17396,Stimulus,presented,3

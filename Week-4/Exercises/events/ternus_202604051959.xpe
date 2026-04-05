@@ -1,0 +1,10 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 19:59:39
+#sha1: 4cda11
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+1921,stderr,received,'Traceback (most recent call last):'
+1923,stderr,received,'  File "c:\\Users\\lily_\\OneDrive\\Documents\\Masters\\S2\\Experimental_approach\\CogSup\\Programming\\Assignments\\Week-4\\Exercises\\ternus.py", line 82, in <module>\n    present_for(circles, number_frames = 18) # present circles for 18 frames minus draw time\n    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^'
+1926,stderr,received,"TypeError: present_for() got an unexpected keyword argument 'number_frames'. Did you mean 'num_frames'?"

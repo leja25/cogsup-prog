@@ -1,0 +1,18 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sun Apr 05 2026 01:08:35
+#sha1: 08c327
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+486,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000002961D1D2C10>'
+571,stdout,received,'<expyriment.stimuli._circle.Circle object at 0x000002961D32ED50>'
+599,Stimulus,presented,12
+599,Stimulus,presented,13
+599,Stimulus,presented,14
+5611,Stimulus,presented,12
+5611,Stimulus,presented,13
+5612,stderr,received,'Traceback (most recent call last):'
+5612,stderr,received,'  File "c:\\Users\\lily_\\OneDrive\\Documents\\Masters\\S2\\Experimental_approach\\CogSup\\Programming\\Assignments\\Week-4\\Exercises\\ternus.py", line 59, in <module>\n    present_for()\n    ~~~~~~~~~~~^^'
+5613,stderr,received,'  File "c:\\Users\\lily_\\OneDrive\\Documents\\Masters\\S2\\Experimental_approach\\CogSup\\Programming\\Assignments\\Week-4\\Exercises\\ternus.py", line 45, in present_for\n    i.present(clear = False, update = False)\n    ^^^^^^^^^'
+5613,stderr,received,"AttributeError: 'int' object has no attribute 'present'"

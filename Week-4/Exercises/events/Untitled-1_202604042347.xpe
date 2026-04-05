@@ -1,0 +1,11 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Sat Apr 04 2026 23:47:38
+#sha1: d54fd5
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-CS183FB', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+1257,stdout,received,'[((80.0, 0), <expyriment.misc._colour.Colour object at 0x0000029062DB7820>), ((-80.0, 0), <expyriment.misc._colour.Colour object at 0x0000029063B9E490>), ((-240.0, 0), <expyriment.misc._colour.Colour object at 0x0000029063BCCFC0>), ((240.0, 0), <expyriment.misc._colour.Colour object at 0x0000029063BCCFC0>)]'
+1258,stdout,received,'[[(80.0, 0), <expyriment.misc._colour.Colour object at 0x0000029062DB7820>], [(-80.0, 0), <expyriment.misc._colour.Colour object at 0x0000029063B9E490>], [(-240.0, 0), <expyriment.misc._colour.Colour object at 0x0000029063BCCFC0>], [(240.0, 0), <expyriment.misc._colour.Colour object at 0x0000029063BCCFC0>]]'
+1258,Experiment,ended
+1271,Stimulus,presented,0
